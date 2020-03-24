@@ -5,7 +5,7 @@ Artigos bacanas que encontrei durante meus estudos teóricos com o Java! Eu prec
 
 -------------------------------------------
 
-##Expressões Lambdas - O que são, como aplicar e exemplos:
+## Expressões Lambdas - O que são, como aplicar e exemplos:
 https://www.devmedia.com.br/como-usar-funcoes-lambda-em-java/32826
 
 
